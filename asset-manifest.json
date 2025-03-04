@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.41c0945b.css",
-    "main.js": "/my-app/static/js/main.29be02ac.js",
-    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.41c0945b.css.map": "/my-app/static/css/main.41c0945b.css.map",
-    "main.29be02ac.js.map": "/my-app/static/js/main.29be02ac.js.map",
-    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Accordion-page/static/css/main.41c0945b.css",
+    "main.js": "/Accordion-page/static/js/main.47bbfdb7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Accordion-page/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Accordion-page/index.html",
+    "main.41c0945b.css.map": "/Accordion-page/static/css/main.41c0945b.css.map",
+    "main.47bbfdb7.js.map": "/Accordion-page/static/js/main.47bbfdb7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Accordion-page/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41c0945b.css",
-    "static/js/main.29be02ac.js"
+    "static/js/main.47bbfdb7.js"
   ]
 }
