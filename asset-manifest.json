@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/Accordion-page/static/css/main.180b60fc.css",
-    "main.js": "/.github.io/Accordion-page/static/js/main.5f16fe5e.js",
-    "static/js/453.ed3810f9.chunk.js": "/.github.io/Accordion-page/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/.github.io/Accordion-page/index.html",
-    "main.180b60fc.css.map": "/.github.io/Accordion-page/static/css/main.180b60fc.css.map",
-    "main.5f16fe5e.js.map": "/.github.io/Accordion-page/static/js/main.5f16fe5e.js.map",
-    "453.ed3810f9.chunk.js.map": "/.github.io/Accordion-page/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Accordion-page/static/css/main.180b60fc.css",
+    "main.js": "/Accordion-page/static/js/main.47bbfdb7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Accordion-page/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Accordion-page/index.html",
+    "main.180b60fc.css.map": "/Accordion-page/static/css/main.180b60fc.css.map",
+    "main.47bbfdb7.js.map": "/Accordion-page/static/js/main.47bbfdb7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Accordion-page/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.180b60fc.css",
-    "static/js/main.5f16fe5e.js"
+    "static/js/main.47bbfdb7.js"
   ]
 }
