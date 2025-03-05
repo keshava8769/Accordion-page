@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Accordion-page/static/css/main.180b60fc.css",
+    "main.css": "/Accordion-page/static/css/main.5d3c3afc.css",
     "main.js": "/Accordion-page/static/js/main.47bbfdb7.js",
     "static/js/453.ed3810f9.chunk.js": "/Accordion-page/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Accordion-page/index.html",
-    "main.180b60fc.css.map": "/Accordion-page/static/css/main.180b60fc.css.map",
+    "main.5d3c3afc.css.map": "/Accordion-page/static/css/main.5d3c3afc.css.map",
     "main.47bbfdb7.js.map": "/Accordion-page/static/js/main.47bbfdb7.js.map",
     "453.ed3810f9.chunk.js.map": "/Accordion-page/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.180b60fc.css",
+    "static/css/main.5d3c3afc.css",
     "static/js/main.47bbfdb7.js"
   ]
 }
